@@ -1,7 +1,5 @@
 # Amazon Product Scraper
 
-#### Video Demo: https://youtu.be/sdPQAIkMO90?si=f3L86l8r8RVOliSt
-
 #### Description:
 
 The Amazon Product Scraper is a Python script designed to simplify the process of searching for products on Amazon.co.uk. This project aims to provide a convenient way for users to find desired items on Amazon without the need for manual browsing.
